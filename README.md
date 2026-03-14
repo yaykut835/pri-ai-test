@@ -1,5 +1,5 @@
 # pri-ai-test
-a primitive ai model
+A primitive ai model, 
 This project is a Character-Level Language Model based on the Transformer architecture. Inspired by Andrej Karpathy's approach, it implements a generative pre-trained transformer from the ground up using PyTorch.
 
 The model is trained on a custom-curated corpus of 10 classic literary works, enabling it to learn and mimic the stylistic nuances of 19th-century prose, dramatic dialogues, and philosophical inquiries.
